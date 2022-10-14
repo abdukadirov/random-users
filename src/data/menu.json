@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Main",
+      "icon": "home",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "name": "Users",
+      "icon": "users",
+      "link": "/users"
+    }
+  ]
+}
